@@ -1,0 +1,3 @@
+name: WithoutGuice
+main: io.rcw.examples.withguice.WithComponentsPlugin
+version: 1.0
